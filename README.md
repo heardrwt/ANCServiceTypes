@@ -1,10 +1,10 @@
-# Apple Notification Center Service Headers (ANCS) (Bluetooth LE)
+# Apple Notification Center Service Headers
 
-This is a header file, based on Apple Notification Center Service [Documentation](https://developer.apple.com/library/prerelease/ios/documentation/CoreBluetooth/Reference/AppleNotificationCenterServiceSpecification/Appendix/Appendix.html#//apple_ref/doc/uid/TP40013460-CH3-SW1).
+This is a header file, based on the Apple Notification Center Service [Documentation](https://developer.apple.com/library/prerelease/ios/documentation/CoreBluetooth/Reference/AppleNotificationCenterServiceSpecification/Appendix/Appendix.html#//apple_ref/doc/uid/TP40013460-CH3-SW1).
 
 
 # What is ANCS?
-Apple exposes over Bluetooth LE, System Notifications from the iOS Notification Center. They call this service ANCS. You can read more [here](https://developer.apple.com/library/prerelease/ios/documentation/CoreBluetooth/Reference/AppleNotificationCenterServiceSpecification/Introduction/Introduction.html#//apple_ref/doc/uid/TP40013460-CH2-SW1).
+Apple exposes iOS Notifications from the Notification Center over Bluetooth LE. They call this service ANCS. You can read more [here](https://developer.apple.com/library/prerelease/ios/documentation/CoreBluetooth/Reference/AppleNotificationCenterServiceSpecification/Introduction/Introduction.html#//apple_ref/doc/uid/TP40013460-CH2-SW1).
 
 
 ## Licence
